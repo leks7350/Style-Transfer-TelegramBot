@@ -9,7 +9,7 @@ import torch
 from torchvision import transforms, models
 import torch.optim as optim
 
-bot = telebot.TeleBot('6253817414:AAGNye2CFcUcNLrHQaam831HSNMCNXfaMyQ')
+bot = telebot.TeleBot('######')
 
 ListPhotos = []
 
